@@ -8,7 +8,7 @@ const grandTotalEl=document.getElementById('grand-total');
 
 
 document.getElementById('next-page').addEventListener('click',function(){
-    window.location.href='/home.html';
+    window.location.href='/index1.html';
 })
 
 
